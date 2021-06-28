@@ -1,0 +1,11 @@
+// app global css in SCSS form
+// app global css in SCSS form
+@import "abstracts/variables";
+@import "layouts/main";
+@import "components/buttons";
+@import "components/components";
+
+*,body{
+  font-family: 'Mulish', sans-serif;
+
+}
